@@ -1,7 +1,1 @@
-function preload() {
-    this.load.image('sky', 'https://labs.phaser.io/assets/skies/sky1.png');
-    this.load.image('ground', 'https://labs.phaser.io/assets/sprites/platform.png');
-    this.load.image('star', 'https://labs.phaser.io/assets/sprites/star.png');
-    this.load.spritesheet('dude', 
-        'https://labs.phaser.io/assets/sprites/dude.png', 
-        { frameWidth: 32, frameHeight: 48 }
+
